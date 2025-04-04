@@ -1,0 +1,6 @@
+{
+      "css.format.braceStyle": "expand",
+      "accessibility.signalOptions.debouncePositionChanges": true,
+      "jupyter.exportWithOutputEnabled": true,
+      "markdown.preferredMdPathExtensionStyle": "auto"
+}
