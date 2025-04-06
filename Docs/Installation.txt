@@ -1,0 +1,7 @@
+command to create conda envinment as well as setting dependecies. 
+
+
+conda create -n WATER python=3.9
+conda activate WATER
+conda install pandas numpy matplotlib seaborn scipy scikit-learn
+conda install -c conda-forge epanet-python
