@@ -1,5 +1,7 @@
+
 Time Series Table - Link 8
-Time                   	     Flow            	Velocity        	Unit Headloss   	Friction Factor 	Reaction Rate   	Quality         	Status                       	                
+ Time                   	Flow            	Velocity        	Unit Headloss   	Friction Factor 	Reaction Rate   	Quality         	Status          
+ Hours                  	GPM             	fps             	ft/Kft          	                	mg/L/d          	                	                
 0:00                    	-891.86         	2.53            	3.33            	0.034           	0.00            	0.00            	Open            
 0:01                    	-888.93         	2.52            	3.31            	0.034           	0.00            	0.00            	Open            
 0:02                    	-886.01         	2.51            	3.29            	0.034           	0.00            	0.00            	Open            
